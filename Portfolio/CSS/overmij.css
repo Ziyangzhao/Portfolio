@@ -1,3 +1,9 @@
 .text{
 	text-align: center;
 }
+
+.foto{
+  transform: rotate(90deg); /* Equal to rotateZ(45deg) */
+  height: 400px;
+  width: 400px;
+}

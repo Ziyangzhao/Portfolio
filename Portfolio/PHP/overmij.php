@@ -7,7 +7,7 @@
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
-    <link rel="stylesheet" href="home.css">
+    <link rel="stylesheet" href="../CSS/overmij.css">
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
     <title>Home</title>
 </head>
@@ -19,11 +19,11 @@
 
     <div class="container">
         <div class="row">
+                <img class="foto" src="../images/overmij.jpg" alt="selfie">
             <div class="col-8">
                 <h4><strong>Over mij</strong></h4>
                 <p>Mijn naam is Zi Yang Zhao en ik ben 17 jaar. Enschede is de plek waar ik ben opgegroeid en geboren. Één jaar geleden verhuisde ik naar Dordrecht. Mijn hobby's zijn: sporten(Basketbal), gamen, piano spelen, series kijken & muziek luisteren. Ik ben een vrolijk en diplomatisch persoon.</p>
             </div>
-                
             <div class="col-8">
                 <h5><strong>Studie</strong></h5>
                 <p>Ik zat op het Bonhoeffer College Geessinkweg (middelbare school MAVO-Niveau). Nu zit ik op het Da Vinci College in Dordrecht. Applicatie Ontwikkeling is mijn eerste opleiding die ik volg na de middelbare school.</p>  
